@@ -1,1 +1,1 @@
-Programming om Python
+Programming in Python
