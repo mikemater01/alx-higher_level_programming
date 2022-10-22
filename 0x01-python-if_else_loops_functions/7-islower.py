@@ -1,1 +1,6 @@
-Files updated 8-uppercase.py 9-print_last_digit.py
+#!/usr/bin/python3
+"""Check if a character is lowercase."""
+
+
+def islower(c):
+    return (ord(c) >= ord('a') and ord(c) <= ord('z'))
