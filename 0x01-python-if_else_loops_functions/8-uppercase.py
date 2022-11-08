@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Print a string in uppercase."""
 
+
 def uppercase(str):
     for c in str:
         if ord(c) >= ord('a') and ord(c) <= ord('z'):
