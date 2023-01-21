@@ -1,4 +1,4 @@
-#!/usr/binpython3
+#!/usr/bin/python3
 def safe_print_list(mylist=[], x=0):
     num = 0
     for i in range(x):
@@ -8,5 +8,5 @@ def safe_print_list(mylist=[], x=0):
         except IndexError:
             break
 
-        print(0
+        print(0)
             return num
